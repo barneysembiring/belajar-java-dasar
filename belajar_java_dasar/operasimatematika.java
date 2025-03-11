@@ -19,5 +19,15 @@ public class operasimatematika{
 
         d *= 10; //maka c dikali 10 dari atas
         System.out.println(d);
+
+        int number = 100;
+
+        number ++;
+        
+        System.out.println(number);
+
+        number --;
+
+        System.out.println(number);
     }
 }
